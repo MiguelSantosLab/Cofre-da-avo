@@ -4,7 +4,7 @@ Uma receita da família **Ramalho**
 
 ---
 
-![Rissóis de Camarão](../imagens/rissóisdecamarão.jpg)
+![Rissóis de Camarão](../imagens/Rissois.jpg)
 
 ## Ingredientes
 
